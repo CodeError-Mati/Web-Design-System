@@ -1,0 +1,42 @@
+* {
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    font-size: 4rem;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.color {
+    display: grid;
+    align-content: center;
+    max-width: 80%;
+    height: ;
+    margin: 0 auto;
+    border: 3px solid black;
+    border-radius: 15px;
+}
+
+.color div {
+    height: 200px;
+    width: 250px;
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.blue {
+    background-color: aqua;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
